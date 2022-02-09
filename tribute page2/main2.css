@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+.navbar{
+    margin: 10px;
+}
+.fa-bars{
+    color: whitesmoke;
+    padding: 10px;
+
+}
+.container{
+   background: url("mountains-5936682.jpg");
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+   border: 5px solid black;
+   border-radius: 8px;
+   -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: whitesmoke;
+
+
+}
+h1{
+    font-size: 40px;
+    color: whitesmoke;
+    text-align: center;
+    display: block;
+}
+#quote{
+    font-size: 25px;
+    text-align: center;
+    font-family: 'josefin sans',sans-serif;
+    color: whitesmoke;
+}
+.container img{
+    border: 5px solid whitesmoke;
+    border-radius: 8px;
+    margin-left: 40%;
+}
+.table td{
+    margin: 0%;
+    padding: 5px;
+    color: whitesmoke;
+}
+.table th{
+    color: whitesmoke;
+}
+p{
+    color: whitesmoke;
+    font-family: 'josefin sans', sans-serif;
+    line-height: 1.4;
+}
+.container2{
+    background: url("Summer-Mountains-Snow-Rocks-Sky-Wallpaper-1920x1080.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    font-family: 'josefin sans', sans-serif;
+    line-height: 1.4;
+    border: 5px solid black;
+    border-radius: 8px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: whitesmoke;
+}
+.container2 img{
+    border: 5px solid whitesmoke;
+    border-radius: 8px;
+    margin-left: 35%;
+}
+.info3{
+    color: whitesmoke;
+    line-height: 1.6;
+    font-size: 25px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: whitesmoke;
+}
